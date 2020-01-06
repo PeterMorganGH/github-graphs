@@ -1,7 +1,7 @@
 {
-  "name": "Portfolio-Fall2018",
+  "name": "github-graphs-frontend",
   "version": "1.0.0",
-  "description": "Portfolio | Christian Martin",
+  "description": "Front-end implementation of GitHub-Graphs",
   "author": "CTMartin",
   "private": true,
   "scripts": {
